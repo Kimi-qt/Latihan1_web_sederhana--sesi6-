@@ -163,7 +163,7 @@ section h3{
     border-top-color:rgb(73, 73, 73) ;
     border-bottom-color: rgb(73, 73, 73) ;
     border-right-color: rgb(73, 73, 73);
-    animation: puter 0.8 linear infinite;
+    animation: puter 0.8s linear infinite;
 }
 @keyframes puter {
     100% {
